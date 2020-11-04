@@ -6,6 +6,11 @@ A chatbot that learns from the scraped data, article, or text, then gives an out
 # Virtual-Assistant-Python
 Added Virtual Assistant capabilities to Python program
 
+
+Chatterbot library  on Bankbot with Chatterbot - training chatterbot's own corpus
+ChatbotAI library on ChatbotAI_Lib_wiki - Scraping data from wiki and answering questions
+NLTK library on Chatbot_with_Scraping_Article - find cosine similarity on the text corpus to answer questions
+
 ## Used Python Libraries
 Include:
   Chatterbot
