@@ -10,7 +10,7 @@ Added Virtual Assistant capabilities to Python program
 Include:
   Chatterbot
   ChatbotAI
-  Colab
+  NLTK
   Keras
   Wikipedia
  
